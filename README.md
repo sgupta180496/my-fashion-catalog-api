@@ -20,6 +20,7 @@ put(allows you to update a record): https://my-fashion-catalog.herokuapp.com/api
 delete(allows you to delete a record corresponding to an id): https://my-fashion-catalog.herokuapp.com/api/deleteFromCatalog/id
 <br>
 <br>
+ Documentation Link: https://documenter.getpostman.com/view/8810065/SW7Xb9sG
 </body>
 </head>  
 
